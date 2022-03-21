@@ -38,7 +38,7 @@
 }
 
 main {
-    background-image: url(../projeto-informatica/assets/fundo-site.jpg);
+    background-image: url(../projeto-informatica/fundo-site.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
