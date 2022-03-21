@@ -1,0 +1,72 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Source+Sans+Pro:wght@200;700&display=swap');
+
+
+
+
+.logo-ifro {
+    width: 150px;
+    padding: 20px 10px;
+}
+
+.cabecalho nav {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cabecalho {
+    background-color: rgba(0, 0, 0, 90%)
+}
+
+.cabecalho {
+    color: white;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 24px;
+    font-weight: 1000;
+     
+}
+
+.cabecalho nav p:hover {
+    color: #8dc960;
+    transition: 0.2s;
+    cursor: default;
+}
+
+main {
+    background-image: url(../projeto-informatica/assets/fundo-site.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+
+      
+}
+
+
+.titulo-materia {
+    padding-top: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo-materia h1 {
+    font-size: 90px;
+    font-weight: 700;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.titulo-materia h2 {
+    font-weight: 700;
+    font-size: 33px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
